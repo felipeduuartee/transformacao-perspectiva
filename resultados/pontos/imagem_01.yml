@@ -1,0 +1,5 @@
+%YAML:1.0
+---
+ordem: "superior_esquerdo, superior_direito, inferior_direito, inferior_esquerdo"
+pontos: [ 220.800003, 124.800003, 954.23999, 144., 956.159973,
+    1161.59998, 207.360001, 1175.04004 ]

@@ -1,0 +1,11 @@
+Imagens encontradas: 4
+imagem_01: reutilizando pontos salvos.
+imagem_01: 1152x1536 -> 1000x1414
+imagem_02: reutilizando pontos salvos.
+imagem_02: 1152x1536 -> 1000x1414
+imagem_03: reutilizando pontos salvos.
+imagem_03: 1152x1536 -> 1000x1414
+imagem_04: reutilizando pontos salvos.
+imagem_04: 1152x1536 -> 1000x1414
+
+Resultados gravados em resultados
