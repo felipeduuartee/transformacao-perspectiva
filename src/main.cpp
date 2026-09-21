@@ -1,5 +1,5 @@
 #include <algorithm>
-#include <cmath>
+#include <cctype>
 #include <filesystem>
 #include <iostream>
 #include <stdexcept>
@@ -62,17 +62,6 @@ std::vector<fs::path> listaImagens(const fs::path& diretorio)
         throw std::runtime_error("Nenhuma imagem encontrada.");
 
     return imagens;
-}
-
-double distancia(
-    const cv::Point2f& a,
-    const cv::Point2f& b
-)
-{
-    double dx = static_cast<double>(a.x - b.x);
-    double dy = static_cast<double>(a.y - b.y);
-
-    return std::sqrt(dx * dx + dy * dy);
 }
 
 void redesenhaSelecao(EstadoClique& estado)
